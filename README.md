@@ -1,2 +1,4 @@
 # Ticking-Clock
-Javascript ticking clock
+Javascript and CSS ticking clock
+
+Simply open with any browser.
